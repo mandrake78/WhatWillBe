@@ -1,3 +1,3 @@
 # WhatWillBe
 
-A description of this package.
+Demo version of SwiftPackage
